@@ -1,2 +1,2 @@
 # GW
-Make automation script aligned with Katalon
+Track automation script aligned with Katalon
